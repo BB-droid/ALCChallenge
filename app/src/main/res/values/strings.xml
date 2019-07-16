@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">ALC Phase 1</string>
+    <string name="action_settings">About</string>
+    <string name="welcome_to_alc">ALC 4.0 Challenge</string>
+    <string name="about">About ALC</string>
+    <string name="profile">My Profile</string>
+    <string name="title_activity_about__alc">About ALC</string>
+    <string name="title_activity_profile">My Profile</string>
+    <string name="myimage">MyImage</string>
+    <string name="creator_name"> Eugene Boakye Boateng</string>
+    <string name="android"> Android</string>
+    <string name="track">Track: </string>
+    <string name="country">Country: </string>
+    <string name="ghana">Ghana</string>
+    <string name="email">Email: </string>
+    <string name="mailname">winnerboakye12@gmail.com</string>
+    <string name="phone">Phone: </string>
+    <string name="number">+233(0)543609480</string>
+    <string name="title_activity_about">About ALC</string>
+</resources>
